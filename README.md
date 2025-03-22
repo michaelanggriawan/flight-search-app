@@ -11,7 +11,7 @@ This project is a modern **Flight Search Web App** built with **Next.js 15**, **
 
 ## Features Implemented
 
-- ✅ Live airport search with auto-suggestion (supports searching by name, code, city, and country)
+- ✅ Live airport search with auto-suggestion (supports searching by name, code, and country)
 - ✅ Geolocation support: Preselects **nearest airport** as default origin
 - ✅ Sticky and responsive search form
 - ✅ Date range picker for flexible travel dates
