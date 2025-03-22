@@ -127,7 +127,7 @@ npm install
 # or
 yarn install
 
-3. Run the development server
+Run the development server
 
 npm run dev
 # or
