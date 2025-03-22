@@ -123,5 +123,15 @@ This implementation prioritizes:
 
 ---
 
-Feel free to fork and expand it with pagination, price filters, or real booking APIs!
+npm install
+# or
+yarn install
+
+3. Run the development server
+
+npm run dev
+# or
+yarn dev
+
+Open http://localhost:3000 in your browser.
 
